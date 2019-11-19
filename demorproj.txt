@@ -1,20 +1,2 @@
-<<<<<<< HEAD
 Hellop deb
 Hello Tawade
-<<<<<<< HEAD
-=======
-Hellop de
-
-
-Hello Tawade
-
-
-this is the code for hello world
->>>>>>> ameybr
-=======
-<<<<<<< HEAD
-
-Sandipan
-=======
->>>>>>> 32e7563cd1a43d8fbe38e9af928db4578d04b133
->>>>>>> 8bd2c8716fd0ec31474ad2cd2cb36b326436841a

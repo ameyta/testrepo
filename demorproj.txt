@@ -1,5 +1,4 @@
 Hellop deb
-<<<<<<< HEAD
-=======
 Hello Tawade
->>>>>>> 6e541b9551cc5fcf033cf8c9846ffdd2d7061c82
+
+Sandipan

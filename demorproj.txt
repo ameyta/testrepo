@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 Hellop deb
 Hello Tawade
+=======
+Hellop de
+
+
+Hello Tawade
+
+
+this is the code for hello world
+>>>>>>> ameybr
